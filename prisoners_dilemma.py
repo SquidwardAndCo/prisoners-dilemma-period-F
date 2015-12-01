@@ -345,7 +345,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 9:
         if getting_team_name:
-            return 'If you betrayed me then I will visit you when I get out'
+            return '*If*You*Betrayed*Me*Then*I*Will*Kill*You*When*I*Get*Out*'
         else:
                 '''This may put me in prison for long time but I will live'''
                 return 'c'
